@@ -1,0 +1,26 @@
+[
+    {
+        "person_surname": "-",
+        "person_name": "-",
+        "person_name_ful": "-",
+        "job": "-",
+        "short_info": "-",
+        "info_date": "2023-04-08",
+        "link_b": "-",
+        "link_photo": "-",
+        "link_page": "-",
+        "link_m": "-",
+        "groups": [
+            {
+                "group_name": "-",
+                "group_link": "-",
+                "group_logo_link": "-"
+            },
+            {
+                "group_name": "-",
+                "group_link": "-",
+                "group_logo_link": "-"
+            }
+        ]
+    },
+]
