@@ -1,4 +1,4 @@
-# scrap_html_to_json
+# Скрапер данных сайта - scrap_html_to_json
 
 ## Возможности
 <ul>
